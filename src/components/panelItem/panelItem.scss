@@ -1,0 +1,27 @@
+
+.panel-item-container {
+    width: 350px;
+    height: fit-content;
+    display: flex;
+    background-color: gray;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 10px;
+    align-items: center;
+    margin: 10px;
+  }
+  
+  .rectangle-box {
+    border-radius: 5px;
+    background-color: #ccc;
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+  }
+  
+  .panel-options {
+    display: flex;
+    margin-left: auto;
+    display: flex;
+  }
